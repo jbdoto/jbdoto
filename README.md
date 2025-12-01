@@ -38,20 +38,9 @@ Senior SRE at Stability AI with deep expertise in Kubernetes, cloud infrastructu
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbdoto&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbdoto&layout=compact&hide_border=true)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffdoto/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=safari&logoColor=white)](http://www.jeffdoto.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeffdoto@gmail.com)
 
----
 
-When I'm not wrangling clusters, you'll find me 3D printing, flying drones, or making music.
