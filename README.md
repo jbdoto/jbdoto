@@ -6,7 +6,7 @@
 
 ## About Me
 
-Senior SRE at Stability AI with deep expertise in Kubernetes, cloud infrastructure, and distributed systems. I specialize in building and maintaining scalable inference platforms, implementing GitOps workflows, and driving operational excellence through observability.
+Expert in Kubernetes, cloud infrastructure, and distributed systems, specializing in the design and operation of scalable, highly observable platforms.
 
 ---
 
